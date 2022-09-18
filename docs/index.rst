@@ -1,9 +1,9 @@
-.. No username Cookiecutter documentation master file, created by
+.. Appo App documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to No username Cookiecutter's documentation!
+Welcome to Appo App's documentation!
 ======================================================================
 
 .. toctree::

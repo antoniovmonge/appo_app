@@ -1,5 +1,5 @@
 """
-ASGI config for No username Cookiecutter project.
+ASGI config for Appo App project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

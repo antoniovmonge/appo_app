@@ -27,7 +27,7 @@ django.setup()
 
 # -- Project information -----------------------------------------------------
 
-project = "No username Cookiecutter"
+project = "Appo App"
 copyright = """2022, Antonio V Monge"""
 author = "Antonio V Monge"
 
